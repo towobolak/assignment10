@@ -75,36 +75,10 @@
         color: hsl(345, 95%, 68%);
         background-image: linear-gradient(hsl(235, 16%, 14%) 0%, hsl(235, 16%, 14%) 50%,hsl(236, 21%, 26%) 50%, hsl(236, 21%, 26%) 100%);
     }
-    .multicolor1{
-        display: none;
-        border: 1px transparent;
-        border-radius: 6px;
-        color: hsl(345, 95%, 68%);
-        padding: 30px;
-        width: 12px;
-        background-image: linear-gradient(hsl(235, 16%, 14%) 0%, hsl(235, 16%, 14%) 50%,hsl(236, 21%, 26%) 50%, hsl(236, 21%, 26%) 100%);
-    }
     .sss{
         text-align: center;
     }
-    .submit{
-        text-align: center;
-        padding-left: 30px;
-        padding-right: 30px;
-        padding-top: 6px;
-        padding-bottom: 6px;
-        color: hsl(237, 18%, 59%);
-        font-family: "Red Hat Text", sans-serif;
-        font-size: 15px;
-        background-color: aqua;
-        border-radius: 10px;
-        cursor: pointer;
-    }
-    .submit:hover{
-        background-color: hsl(237, 18%, 59%);
-        color: white;
-        transition: 3s;
-    }
+
 }
 
 @media only screen and (min-width: 768px){
@@ -182,32 +156,8 @@
         width: 12px;
         background-image: linear-gradient(hsl(235, 16%, 14%) 0%, hsl(235, 16%, 14%) 50%,hsl(236, 21%, 26%) 50%, hsl(236, 21%, 26%) 100%);
     }
-    .multicolor1{
-        display: none;
-        border: 1px transparent;
-        border-radius: 6px;
-        padding: 30px;
-        width: 12px;
-        background-image: linear-gradient(hsl(235, 16%, 14%) 0%, hsl(235, 16%, 14%) 50%,hsl(236, 21%, 26%) 50%, hsl(236, 21%, 26%) 100%);
-    }
     .sss{
         text-align: center;
     }
-    .submit{
-        cursor:pointer;
-        padding-left: 30px;
-        padding-right: 30px;
-        padding-top: 6px;
-        padding-bottom: 6px;
-        color: hsl(237, 18%, 59%);
-        font-family: "Red Hat Text", sans-serif;
-        font-size: 15px;
-        background-color: aqua;
-        border-radius: 10px;
-    }
-    .submit:hover{
-        background-color: hsl(237, 18%, 59%);
-        color: white;
-        transition: 3s;
-    }
+
 }
